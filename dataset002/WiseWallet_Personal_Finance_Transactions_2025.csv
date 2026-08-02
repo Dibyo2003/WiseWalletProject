@@ -1,0 +1,366 @@
+Date,Description,Category,Type,Amount
+2025-01-01,Monthly Salary Credit - TechCorp India,Salary,CREDIT,60000.0
+2025-01-01,Uniqlo Store,Shopping,DEBIT,4087.22
+2025-01-03,HP Fuel Station,Transport,DEBIT,2039.47
+2025-01-05,Canva Pro Subscription,Subscriptions,DEBIT,499.0
+2025-01-05,Toit Brewpub,Food,DEBIT,1944.06
+2025-01-06,Third Wave Coffee,Food,DEBIT,491.03
+2025-01-06,BWSSB Water Supply,Bills,DEBIT,626.97
+2025-01-08,Ola Cabs,Transport,DEBIT,254.47
+2025-01-10,PPF Contribution SBI,Investment,DEBIT,5879.44
+2025-01-11,Third Wave Coffee,Food,DEBIT,317.05
+2025-01-12,PPF Contribution SBI,Investment,DEBIT,14623.65
+2025-01-13,Blinkit Supermarket,Food,DEBIT,527.24
+2025-01-18,Cred Cashback Credit,Other,CREDIT,121.65
+2025-01-19,AWS Certification Exam Fee,Education,DEBIT,7732.27
+2025-01-20,Freelance UI Design Payment,Other,CREDIT,15312.62
+2025-01-20,Zepto Grocery,Food,DEBIT,373.63
+2025-01-21,Goonj NGO Donation,Other,DEBIT,1231.27
+2025-01-22,Jio Mobile Recharge,Bills,DEBIT,476.59
+2025-01-26,Zara Clothing,Shopping,DEBIT,3387.83
+2025-01-26,Uber Trip,Transport,DEBIT,330.7
+2025-01-28,Local Hardware Repairs,Other,DEBIT,256.19
+2025-01-28,Mainland China Restaurant,Food,DEBIT,1584.64
+2025-01-30,Google One 100GB Storage,Subscriptions,DEBIT,130.0
+2025-01-31,Swiggy Order,Food,DEBIT,409.49
+2025-02-01,Monthly Salary Credit - TechCorp India,Salary,CREDIT,60000.0
+2025-02-02,Myntra Fashion,Shopping,DEBIT,1017.89
+2025-02-03,Uniqlo Store,Shopping,DEBIT,4012.33
+2025-02-04,Google One 100GB Storage,Subscriptions,DEBIT,130.0
+2025-02-08,Zepto Grocery,Food,DEBIT,253.91
+2025-02-09,YouTube Premium Monthly,Subscriptions,DEBIT,149.0
+2025-02-10,Blinkit Supermarket,Food,DEBIT,1179.18
+2025-02-11,Canva Pro Subscription,Subscriptions,DEBIT,499.0
+2025-02-11,Goonj NGO Donation,Other,DEBIT,1455.07
+2025-02-13,BookMyShow Cinema,Entertainment,DEBIT,636.8
+2025-02-15,Truffles Cafe,Food,DEBIT,1028.19
+2025-02-17,Uber Trip,Transport,DEBIT,204.57
+2025-02-18,Indane Gas Cylinder,Bills,DEBIT,986.44
+2025-02-18,Mainland China Restaurant,Food,DEBIT,2688.47
+2025-02-18,Zerodha Coin Mutual Fund SIP,Investment,DEBIT,8717.04
+2025-02-19,Local Organic Store,Food,DEBIT,814.35
+2025-02-20,Dr. Lal PathLabs Diagnostic,Healthcare,DEBIT,2467.57
+2025-02-22,Flipkart Order,Shopping,DEBIT,3594.19
+2025-02-22,Third Wave Coffee,Food,DEBIT,449.79
+2025-02-23,Indane Gas Cylinder,Bills,DEBIT,1011.62
+2025-02-23,Groww Equity Investment,Investment,DEBIT,3324.88
+2025-02-26,1mg Online Medicine,Healthcare,DEBIT,1608.66
+2025-02-26,Jio Mobile Recharge,Bills,DEBIT,467.76
+2025-02-26,Apollo Pharmacy,Healthcare,DEBIT,902.76
+2025-03-01,Monthly Salary Credit - TechCorp India,Salary,CREDIT,60000.0
+2025-03-02,Rapido Bike Taxi,Transport,DEBIT,152.85
+2025-03-02,Shell Petrol Pump,Transport,DEBIT,1584.8
+2025-03-07,Zepto Grocery,Food,DEBIT,756.83
+2025-03-08,Blinkit Supermarket,Food,DEBIT,433.83
+2025-03-09,Ola Cabs,Transport,DEBIT,229.38
+2025-03-11,Airtel Black Fiber Bill,Bills,DEBIT,1326.49
+2025-03-14,HP Fuel Station,Transport,DEBIT,2103.66
+2025-03-15,Myntra Fashion,Shopping,DEBIT,1487.76
+2025-03-16,Manipal Hospital OPD Consultation,Healthcare,DEBIT,1061.32
+2025-03-16,Starbucks Coffee,Food,DEBIT,353.48
+2025-03-16,BWSSB Water Supply,Bills,DEBIT,692.69
+2025-03-17,PPF Contribution SBI,Investment,DEBIT,13199.25
+2025-03-18,PVR Cinemas Movie Tickets,Entertainment,DEBIT,898.65
+2025-03-19,Third Wave Coffee,Food,DEBIT,461.9
+2025-03-22,Shell Petrol Pump,Transport,DEBIT,2474.1
+2025-03-22,Uniqlo Store,Shopping,DEBIT,3401.43
+2025-03-23,Namma Metro Recharge,Transport,DEBIT,275.23
+2025-03-23,Starbucks Coffee,Food,DEBIT,432.84
+2025-03-24,Goonj NGO Donation,Other,DEBIT,1483.58
+2025-03-26,Airbnb Stay,Travel,DEBIT,7213.19
+2025-03-27,Third Wave Coffee,Food,DEBIT,398.76
+2025-03-27,Third Wave Coffee,Food,DEBIT,314.07
+2025-04-01,Monthly Salary Credit - TechCorp India,Salary,CREDIT,60000.0
+2025-04-01,Zomato Delivery,Food,DEBIT,374.02
+2025-04-02,Amazon India,Shopping,DEBIT,1701.38
+2025-04-02,PPF Contribution SBI,Investment,DEBIT,15752.3
+2025-04-03,Ola Cabs,Transport,DEBIT,364.85
+2025-04-03,Rapido Bike Taxi,Transport,DEBIT,134.79
+2025-04-04,HP Fuel Station,Transport,DEBIT,1745.72
+2025-04-05,HP Fuel Station,Transport,DEBIT,1235.04
+2025-04-05,Airbnb Stay,Travel,DEBIT,6602.56
+2025-04-05,Blinkit Supermarket,Food,DEBIT,627.69
+2025-04-08,Zepto Grocery,Food,DEBIT,802.52
+2025-04-08,Third Wave Coffee,Food,DEBIT,482.89
+2025-04-08,Flipkart Order,Shopping,DEBIT,2653.18
+2025-04-11,Spotify India Premium,Entertainment,DEBIT,105.59
+2025-04-12,Groww Equity Investment,Investment,DEBIT,3198.46
+2025-04-13,Goonj NGO Donation,Other,DEBIT,1313.92
+2025-04-15,Shell Petrol Pump,Transport,DEBIT,2146.81
+2025-04-16,Amazon India,Shopping,DEBIT,1373.27
+2025-04-19,Groww Equity Investment,Investment,DEBIT,6803.33
+2025-04-19,Netflix Subscription,Entertainment,DEBIT,550.32
+2025-04-19,HP Fuel Station,Transport,DEBIT,2037.36
+2025-04-23,Apollo Pharmacy,Healthcare,DEBIT,265.76
+2025-04-23,Canva Pro Subscription,Subscriptions,DEBIT,499.0
+2025-04-23,Local Organic Store,Food,DEBIT,910.61
+2025-04-25,BWSSB Water Supply,Bills,DEBIT,648.86
+2025-04-27,Rapido Bike Taxi,Transport,DEBIT,56.34
+2025-04-27,Rapido Bike Taxi,Transport,DEBIT,139.62
+2025-04-28,SBI ATM Cash Withdrawal,Other,DEBIT,3073.62
+2025-05-01,Monthly Salary Credit - TechCorp India,Salary,CREDIT,60000.0
+2025-05-02,HP Fuel Station,Transport,DEBIT,1897.83
+2025-05-02,Cred Cashback Credit,Other,CREDIT,206.13
+2025-05-03,PVR Cinemas Movie Tickets,Entertainment,DEBIT,491.02
+2025-05-04,BWSSB Water Supply,Bills,DEBIT,393.46
+2025-05-04,Freelance UI Design Payment,Other,CREDIT,12054.65
+2025-05-05,Third Wave Coffee,Food,DEBIT,428.18
+2025-05-06,Toit Brewpub,Food,DEBIT,1698.92
+2025-05-06,Third Wave Coffee,Food,DEBIT,448.71
+2025-05-06,MakeMyTrip Hotel Booking,Travel,DEBIT,4134.14
+2025-05-08,Groww Equity Investment,Investment,DEBIT,4794.93
+2025-05-09,PVR Cinemas Movie Tickets,Entertainment,DEBIT,1011.09
+2025-05-10,Groww Equity Investment,Investment,DEBIT,3420.05
+2025-05-12,Zerodha Coin Mutual Fund SIP,Investment,DEBIT,6831.39
+2025-05-12,Toit Brewpub,Food,DEBIT,3370.89
+2025-05-13,HP Fuel Station,Transport,DEBIT,1742.24
+2025-05-15,Ola Cabs,Transport,DEBIT,184.82
+2025-05-15,Amazon India,Shopping,DEBIT,1956.26
+2025-05-15,Indane Gas Cylinder,Bills,DEBIT,1078.17
+2025-05-16,Local Organic Store,Food,DEBIT,722.33
+2025-05-18,IRCTC Train Ticket,Travel,DEBIT,977.82
+2025-05-18,Airtel Black Fiber Bill,Bills,DEBIT,1409.01
+2025-05-19,Uber Trip,Transport,DEBIT,287.37
+2025-05-19,Performance Bonus TechCorp,Other,CREDIT,16854.44
+2025-05-19,Uber Trip,Transport,DEBIT,290.72
+2025-05-20,Third Wave Coffee,Food,DEBIT,318.13
+2025-05-21,Amazon Pay Refund,Other,CREDIT,1741.71
+2025-05-21,Shell Petrol Pump,Transport,DEBIT,1723.34
+2025-05-23,Jio Mobile Recharge,Bills,DEBIT,612.68
+2025-05-23,Third Wave Coffee,Food,DEBIT,350.13
+2025-05-24,Airtel Black Fiber Bill,Bills,DEBIT,1339.83
+2025-05-25,Third Wave Coffee,Food,DEBIT,373.83
+2025-05-26,HP Fuel Station,Transport,DEBIT,1184.77
+2025-05-26,Shell Petrol Pump,Transport,DEBIT,2218.2
+2025-05-27,Third Wave Coffee,Food,DEBIT,483.3
+2025-05-28,Uber Trip,Transport,DEBIT,461.65
+2025-05-29,MakeMyTrip Hotel Booking,Travel,DEBIT,5627.49
+2025-05-30,Zerodha Coin Mutual Fund SIP,Investment,DEBIT,6232.1
+2025-05-31,Goibibo Bus Ticket,Travel,DEBIT,821.79
+2025-05-31,Instamart Grocery,Food,DEBIT,414.34
+2025-05-31,HP Fuel Station,Transport,DEBIT,1925.03
+2025-06-01,Monthly Salary Credit - TechCorp India,Salary,CREDIT,60000.0
+2025-06-01,Rapido Bike Taxi,Transport,DEBIT,116.33
+2025-06-02,Truffles Cafe,Food,DEBIT,873.12
+2025-06-03,Airbnb Stay,Travel,DEBIT,7072.8
+2025-06-04,Zepto Grocery,Food,DEBIT,896.87
+2025-06-05,Swiggy Order,Food,DEBIT,444.92
+2025-06-09,Myntra Fashion,Shopping,DEBIT,1181.98
+2025-06-09,Udemy Course Purchase,Education,DEBIT,651.35
+2025-06-11,Swiggy Order,Food,DEBIT,616.44
+2025-06-12,PPF Contribution SBI,Investment,DEBIT,5543.42
+2025-06-13,Uber Trip,Transport,DEBIT,266.34
+2025-06-13,BWSSB Water Supply,Bills,DEBIT,400.19
+2025-06-14,Instamart Grocery,Food,DEBIT,1043.34
+2025-06-14,1mg Online Medicine,Healthcare,DEBIT,1001.33
+2025-06-15,Rapido Bike Taxi,Transport,DEBIT,131.91
+2025-06-15,Decathlon Sports,Shopping,DEBIT,1929.07
+2025-06-15,HDFC Nifty 50 Index Fund,Investment,DEBIT,6941.72
+2025-06-16,Coursera Subscription,Education,DEBIT,2149.32
+2025-06-16,Jio Mobile Recharge,Bills,DEBIT,683.15
+2025-06-17,Starbucks Coffee,Food,DEBIT,567.89
+2025-06-18,HP Fuel Station,Transport,DEBIT,1746.62
+2025-06-18,Zepto Grocery,Food,DEBIT,954.16
+2025-06-20,PPF Contribution SBI,Investment,DEBIT,15976.32
+2025-06-21,Zerodha Coin Mutual Fund SIP,Investment,DEBIT,5296.23
+2025-06-21,BESCOM Electricity Bill,Bills,DEBIT,2340.8
+2025-06-22,Amazon India,Shopping,DEBIT,2943.76
+2025-06-25,Mainland China Restaurant,Food,DEBIT,1707.69
+2025-06-25,Rapido Bike Taxi,Transport,DEBIT,88.41
+2025-06-25,Myntra Fashion,Shopping,DEBIT,1271.89
+2025-06-26,BWSSB Water Supply,Bills,DEBIT,447.04
+2025-06-28,Starbucks Coffee,Food,DEBIT,571.42
+2025-06-29,Apollo Pharmacy,Healthcare,DEBIT,712.43
+2025-07-01,Monthly Salary Credit - TechCorp India,Salary,CREDIT,60000.0
+2025-07-01,HP Fuel Station,Transport,DEBIT,1856.72
+2025-07-02,BESCOM Electricity Bill,Bills,DEBIT,2796.0
+2025-07-02,BESCOM Electricity Bill,Bills,DEBIT,2616.72
+2025-07-04,Zara Clothing,Shopping,DEBIT,3553.96
+2025-07-06,Jio Mobile Recharge,Bills,DEBIT,672.63
+2025-07-09,Airtel Black Fiber Bill,Bills,DEBIT,1427.63
+2025-07-09,Groww Equity Investment,Investment,DEBIT,6465.43
+2025-07-10,Rapido Bike Taxi,Transport,DEBIT,105.49
+2025-07-11,Shell Petrol Pump,Transport,DEBIT,2591.31
+2025-07-11,Ola Cabs,Transport,DEBIT,439.44
+2025-07-11,Uber Trip,Transport,DEBIT,319.62
+2025-07-11,SBI ATM Cash Withdrawal,Other,DEBIT,1038.1
+2025-07-13,Zepto Grocery,Food,DEBIT,872.57
+2025-07-14,Quarterly Bank Savings Interest Credit,Other,CREDIT,873.29
+2025-07-15,Toit Brewpub,Food,DEBIT,2994.58
+2025-07-18,Uniqlo Store,Shopping,DEBIT,3330.66
+2025-07-19,Decathlon Sports,Shopping,DEBIT,3323.3
+2025-07-21,Toit Brewpub,Food,DEBIT,2665.8
+2025-07-21,Zomato Delivery,Food,DEBIT,397.93
+2025-07-22,BESCOM Electricity Bill,Bills,DEBIT,2095.09
+2025-07-23,Netflix Subscription,Entertainment,DEBIT,505.28
+2025-07-24,Starbucks Coffee,Food,DEBIT,488.64
+2025-07-27,Zepto Grocery,Food,DEBIT,350.81
+2025-07-31,Starbucks Coffee,Food,DEBIT,395.59
+2025-07-31,Shell Petrol Pump,Transport,DEBIT,2209.42
+2025-07-31,Swiggy Order,Food,DEBIT,323.67
+2025-08-01,Monthly Salary Credit - TechCorp India,Salary,CREDIT,60000.0
+2025-08-02,Zomato Delivery,Food,DEBIT,589.0
+2025-08-02,Groww Equity Investment,Investment,DEBIT,5674.61
+2025-08-02,Swiggy Order,Food,DEBIT,673.35
+2025-08-03,Apollo Pharmacy,Healthcare,DEBIT,433.81
+2025-08-03,Airtel Black Fiber Bill,Bills,DEBIT,1479.49
+2025-08-03,Truffles Cafe,Food,DEBIT,596.39
+2025-08-04,Instamart Grocery,Food,DEBIT,519.0
+2025-08-08,Ola Cabs,Transport,DEBIT,251.76
+2025-08-09,Local Organic Store,Food,DEBIT,578.92
+2025-08-09,Instamart Grocery,Food,DEBIT,584.09
+2025-08-13,Crossword Bookstore,Education,DEBIT,556.1
+2025-08-13,Zepto Grocery,Food,DEBIT,623.41
+2025-08-14,Instamart Grocery,Food,DEBIT,1168.16
+2025-08-15,Starbucks Coffee,Food,DEBIT,539.87
+2025-08-16,1mg Online Medicine,Healthcare,DEBIT,1385.13
+2025-08-16,Zerodha Coin Mutual Fund SIP,Investment,DEBIT,7077.11
+2025-08-16,Canva Pro Subscription,Subscriptions,DEBIT,499.0
+2025-08-20,Starbucks Coffee,Food,DEBIT,422.12
+2025-08-21,BWSSB Water Supply,Bills,DEBIT,547.39
+2025-08-23,Uniqlo Store,Shopping,DEBIT,2366.06
+2025-08-24,Zerodha Coin Mutual Fund SIP,Investment,DEBIT,5442.25
+2025-08-24,Netflix Subscription,Entertainment,DEBIT,545.16
+2025-08-24,Uber Trip,Transport,DEBIT,292.94
+2025-08-25,Uniqlo Store,Shopping,DEBIT,2146.71
+2025-08-26,Local Organic Store,Food,DEBIT,799.88
+2025-08-27,BESCOM Electricity Bill,Bills,DEBIT,2675.85
+2025-08-27,Indane Gas Cylinder,Bills,DEBIT,988.53
+2025-08-30,Amazon India,Shopping,DEBIT,2731.93
+2025-08-31,Gift for Friend Birthday,Other,DEBIT,2062.08
+2025-09-01,Monthly Salary Credit - TechCorp India,Salary,CREDIT,60000.0
+2025-09-01,Cult.fit Gym Subscription,Healthcare,DEBIT,1930.58
+2025-09-01,Spotify India Premium,Entertainment,DEBIT,105.03
+2025-09-02,Ola Cabs,Transport,DEBIT,439.14
+2025-09-03,Dr. Lal PathLabs Diagnostic,Healthcare,DEBIT,1783.95
+2025-09-04,Toit Brewpub,Food,DEBIT,1915.54
+2025-09-05,Performance Bonus TechCorp,Other,CREDIT,29523.21
+2025-09-06,Ola Cabs,Transport,DEBIT,223.43
+2025-09-07,Spotify India Premium,Entertainment,DEBIT,115.92
+2025-09-09,Mainland China Restaurant,Food,DEBIT,2025.11
+2025-09-10,Truffles Cafe,Food,DEBIT,904.39
+2025-09-11,Zepto Grocery,Food,DEBIT,920.82
+2025-09-12,Namma Metro Recharge,Transport,DEBIT,215.56
+2025-09-14,Truffles Cafe,Food,DEBIT,765.27
+2025-09-15,Swiggy Order,Food,DEBIT,549.18
+2025-09-15,Myntra Fashion,Shopping,DEBIT,1974.5
+2025-09-16,Zomato Delivery,Food,DEBIT,485.67
+2025-09-16,Goonj NGO Donation,Other,DEBIT,1564.36
+2025-09-16,Zerodha Coin Mutual Fund SIP,Investment,DEBIT,5450.63
+2025-09-16,PPF Contribution SBI,Investment,DEBIT,9720.77
+2025-09-18,Flipkart Order,Shopping,DEBIT,1918.2
+2025-09-18,Gift for Friend Birthday,Other,DEBIT,1078.85
+2025-09-18,Toit Brewpub,Food,DEBIT,1919.37
+2025-09-19,Ola Cabs,Transport,DEBIT,314.01
+2025-09-20,Namma Metro Recharge,Transport,DEBIT,260.27
+2025-09-20,Google One 100GB Storage,Subscriptions,DEBIT,130.0
+2025-09-20,Starbucks Coffee,Food,DEBIT,452.55
+2025-09-20,HP Fuel Station,Transport,DEBIT,1031.32
+2025-09-22,Flipkart Order,Shopping,DEBIT,3289.1
+2025-09-22,Decathlon Sports,Shopping,DEBIT,1606.39
+2025-09-22,Manipal Hospital OPD Consultation,Healthcare,DEBIT,949.22
+2025-09-25,Namma Metro Recharge,Transport,DEBIT,368.05
+2025-09-26,BWSSB Water Supply,Bills,DEBIT,618.65
+2025-09-26,Steam Games Purchase,Entertainment,DEBIT,2101.97
+2025-09-27,Gift for Friend Birthday,Other,DEBIT,1495.04
+2025-09-27,Swiggy Order,Food,DEBIT,260.17
+2025-09-30,Blinkit Supermarket,Food,DEBIT,1270.63
+2025-09-30,Quarterly Bank Savings Interest Credit,Other,CREDIT,638.18
+2025-10-01,Monthly Salary Credit - TechCorp India,Salary,CREDIT,60000.0
+2025-10-02,Myntra Fashion,Shopping,DEBIT,4327.01
+2025-10-02,Freelance UI Design Payment,Other,CREDIT,24563.01
+2025-10-03,IRCTC Train Ticket,Travel,DEBIT,556.5
+2025-10-03,HP Fuel Station,Transport,DEBIT,1307.53
+2025-10-03,Namma Metro Recharge,Transport,DEBIT,204.07
+2025-10-04,Ola Cabs,Transport,DEBIT,226.58
+2025-10-04,Amazon India,Shopping,DEBIT,3717.54
+2025-10-04,Myntra Fashion,Shopping,DEBIT,3728.66
+2025-10-04,Instamart Grocery,Food,DEBIT,373.42
+2025-10-05,Cred Cashback Credit,Other,CREDIT,277.6
+2025-10-06,Instamart Grocery,Food,DEBIT,1033.6
+2025-10-07,Instamart Grocery,Food,DEBIT,644.71
+2025-10-08,Myntra Fashion,Shopping,DEBIT,4105.19
+2025-10-09,Google One 100GB Storage,Subscriptions,DEBIT,130.0
+2025-10-10,Cred Cashback Credit,Other,CREDIT,142.1
+2025-10-10,Zara Clothing,Shopping,DEBIT,9217.53
+2025-10-10,Google One 100GB Storage,Subscriptions,DEBIT,130.0
+2025-10-12,Airtel Black Fiber Bill,Bills,DEBIT,1205.11
+2025-10-15,Mainland China Restaurant,Food,DEBIT,1483.11
+2025-10-15,SBI ATM Cash Withdrawal,Other,DEBIT,2562.21
+2025-10-16,Starbucks Coffee,Food,DEBIT,612.16
+2025-10-16,HP Fuel Station,Transport,DEBIT,1317.21
+2025-10-16,Netflix Subscription,Entertainment,DEBIT,541.93
+2025-10-18,BWSSB Water Supply,Bills,DEBIT,380.3
+2025-10-19,YouTube Premium Monthly,Subscriptions,DEBIT,149.0
+2025-10-19,Blinkit Supermarket,Food,DEBIT,1154.02
+2025-10-19,Decathlon Sports,Shopping,DEBIT,5645.47
+2025-10-21,Ola Cabs,Transport,DEBIT,177.29
+2025-10-21,Ola Cabs,Transport,DEBIT,368.25
+2025-10-22,HP Fuel Station,Transport,DEBIT,1835.74
+2025-10-23,Cred Cashback Credit,Other,CREDIT,62.28
+2025-10-24,Groww Equity Investment,Investment,DEBIT,4397.94
+2025-10-25,Uniqlo Store,Shopping,DEBIT,6295.81
+2025-10-25,Uber Trip,Transport,DEBIT,331.02
+2025-10-25,Decathlon Sports,Shopping,DEBIT,1787.77
+2025-10-26,Decathlon Sports,Shopping,DEBIT,3553.53
+2025-10-26,Uber Trip,Transport,DEBIT,509.05
+2025-10-27,Groww Equity Investment,Investment,DEBIT,3520.08
+2025-10-27,Netflix Subscription,Entertainment,DEBIT,503.47
+2025-10-29,Shell Petrol Pump,Transport,DEBIT,1722.43
+2025-10-30,Flipkart Order,Shopping,DEBIT,3807.41
+2025-10-30,IKEA Home Furnishing,Shopping,DEBIT,8892.77
+2025-11-01,Monthly Salary Credit - TechCorp India,Salary,CREDIT,60000.0
+2025-11-01,Jio Mobile Recharge,Bills,DEBIT,660.72
+2025-11-03,IKEA Home Furnishing,Shopping,DEBIT,1809.4
+2025-11-05,Freelance UI Design Payment,Other,CREDIT,16734.33
+2025-11-06,PPF Contribution SBI,Investment,DEBIT,6864.43
+2025-11-06,Rapido Bike Taxi,Transport,DEBIT,97.38
+2025-11-07,Rapido Bike Taxi,Transport,DEBIT,117.99
+2025-11-09,Airtel Black Fiber Bill,Bills,DEBIT,1401.81
+2025-11-11,Myntra Fashion,Shopping,DEBIT,2051.37
+2025-11-11,HP Fuel Station,Transport,DEBIT,1512.64
+2025-11-12,Zerodha Coin Mutual Fund SIP,Investment,DEBIT,6000.6
+2025-11-13,Canva Pro Subscription,Subscriptions,DEBIT,499.0
+2025-11-15,Groww Equity Investment,Investment,DEBIT,5811.9
+2025-11-15,BESCOM Electricity Bill,Bills,DEBIT,2033.39
+2025-11-15,Rapido Bike Taxi,Transport,DEBIT,115.83
+2025-11-16,Zerodha Coin Mutual Fund SIP,Investment,DEBIT,5712.62
+2025-11-17,Ola Cabs,Transport,DEBIT,255.92
+2025-11-17,Mainland China Restaurant,Food,DEBIT,1346.76
+2025-11-18,Uber Trip,Transport,DEBIT,414.58
+2025-11-18,Steam Games Purchase,Entertainment,DEBIT,2043.15
+2025-11-19,Quarterly Bank Savings Interest Credit,Other,CREDIT,845.48
+2025-11-22,Toit Brewpub,Food,DEBIT,2426.17
+2025-11-22,Jio Mobile Recharge,Bills,DEBIT,644.31
+2025-11-25,BookMyShow Cinema,Entertainment,DEBIT,482.09
+2025-11-25,Flipkart Order,Shopping,DEBIT,1006.81
+2025-11-26,BWSSB Water Supply,Bills,DEBIT,693.9
+2025-11-26,Myntra Fashion,Shopping,DEBIT,2200.23
+2025-11-26,IKEA Home Furnishing,Shopping,DEBIT,1282.88
+2025-11-27,Swiggy Order,Food,DEBIT,301.91
+2025-11-28,BESCOM Electricity Bill,Bills,DEBIT,1317.0
+2025-11-30,Ola Cabs,Transport,DEBIT,458.15
+2025-11-30,Steam Games Purchase,Entertainment,DEBIT,2115.21
+2025-12-01,Monthly Salary Credit - TechCorp India,Salary,CREDIT,60000.0
+2025-12-02,Namma Metro Recharge,Transport,DEBIT,342.78
+2025-12-03,Truffles Cafe,Food,DEBIT,986.19
+2025-12-06,Swiggy Order,Food,DEBIT,634.79
+2025-12-07,YouTube Premium Monthly,Subscriptions,DEBIT,149.0
+2025-12-08,Uber Trip,Transport,DEBIT,364.97
+2025-12-08,Jio Mobile Recharge,Bills,DEBIT,643.67
+2025-12-08,Zomato Delivery,Food,DEBIT,694.43
+2025-12-09,Namma Metro Recharge,Transport,DEBIT,371.14
+2025-12-11,Decathlon Sports,Shopping,DEBIT,1681.96
+2025-12-13,Zara Clothing,Shopping,DEBIT,4739.31
+2025-12-13,Third Wave Coffee,Food,DEBIT,353.82
+2025-12-17,Starbucks Coffee,Food,DEBIT,402.42
+2025-12-18,Mainland China Restaurant,Food,DEBIT,1955.12
+2025-12-19,Rapido Bike Taxi,Transport,DEBIT,75.87
+2025-12-21,Amazon India,Shopping,DEBIT,2277.43
+2025-12-21,Ola Cabs,Transport,DEBIT,212.17
+2025-12-24,Zerodha Coin Mutual Fund SIP,Investment,DEBIT,6004.19
+2025-12-27,Netflix Subscription,Entertainment,DEBIT,516.23
+2025-12-28,HDFC Nifty 50 Index Fund,Investment,DEBIT,5224.19
+2025-12-29,Shell Petrol Pump,Transport,DEBIT,2931.37
+2025-12-30,Blinkit Supermarket,Food,DEBIT,605.94
+2025-12-31,Zara Clothing,Shopping,DEBIT,3448.14

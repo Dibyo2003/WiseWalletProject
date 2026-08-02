@@ -1,0 +1,61 @@
+Date,Description,Amount,Type
+2024-01-01,Salary - Monthly,50000,Credit
+2024-01-02,Amazon Shopping,2500,Debit
+2024-01-03,Restaurant Dinner,1500,Debit
+2024-01-04,Uber Ride,300,Debit
+2024-01-05,Netflix Subscription,200,Debit
+2024-01-06,Grocery Store,1000,Debit
+2024-01-07,Electricity Bill,800,Debit
+2024-01-08,Salary - Bonus,5000,Credit
+2024-01-09,Flight Booking,4000,Debit
+2024-01-10,Hotel Booking,3000,Debit
+2024-01-11,Restaurant Lunch,800,Debit
+2024-01-12,Metro Card,150,Debit
+2024-01-13,Flipkart Shopping,3500,Debit
+2024-01-14,Dentist Appointment,2000,Debit
+2024-01-15,Spotify Premium,120,Debit
+2024-01-16,Water Bill,500,Debit
+2024-01-17,Investment - Mutual Fund,10000,Debit
+2024-01-18,Swiggy Food Delivery,600,Debit
+2024-01-19,Uber Ride,250,Debit
+2024-01-20,Grocery Store,1500,Debit
+2024-02-01,Salary - Monthly,50000,Credit
+2024-02-02,Amazon Shopping,3000,Debit
+2024-02-03,Restaurant Dinner,2000,Debit
+2024-02-04,Taxi Service,400,Debit
+2024-02-05,Netflix Subscription,200,Debit
+2024-02-06,Supermarket,1200,Debit
+2024-02-07,Gas Bill,600,Debit
+2024-02-08,Salary - Bonus,3000,Credit
+2024-02-09,Car Rental,2500,Debit
+2024-02-10,Hotel Booking,2000,Debit
+2024-02-11,Restaurant Lunch,700,Debit
+2024-02-12,Metro Card,150,Debit
+2024-02-13,Myntra Shopping,4500,Debit
+2024-02-14,Medical Checkup,1500,Debit
+2024-02-15,Spotify Premium,120,Debit
+2024-02-16,Electricity Bill,900,Debit
+2024-02-17,Investment - Stocks,5000,Debit
+2024-02-18,Zomato Delivery,500,Debit
+2024-02-19,Taxi Service,350,Debit
+2024-02-20,Grocery Store,2000,Debit
+2024-03-01,Salary - Monthly,50000,Credit
+2024-03-02,Amazon Shopping,2000,Debit
+2024-03-03,Restaurant Dinner,1800,Debit
+2024-03-04,Uber Ride,280,Debit
+2024-03-05,Netflix Subscription,200,Debit
+2024-03-06,Grocery Store,1300,Debit
+2024-03-07,Water Bill,550,Debit
+2024-03-08,Salary - Bonus,4000,Credit
+2024-03-09,Flight Booking,5000,Debit
+2024-03-10,Hotel Booking,3500,Debit
+2024-03-11,Restaurant Lunch,650,Debit
+2024-03-12,Metro Card,150,Debit
+2024-03-13,Amazon Shopping,4200,Debit
+2024-03-14,Pharmacy,800,Debit
+2024-03-15,Spotify Premium,120,Debit
+2024-03-16,Gas Bill,700,Debit
+2024-03-17,Investment - Mutual Fund,8000,Debit
+2024-03-18,Swiggy Food Delivery,450,Debit
+2024-03-19,Uber Ride,300,Debit
+2024-03-20,Grocery Store,1600,Debit
