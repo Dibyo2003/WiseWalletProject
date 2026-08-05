@@ -5,7 +5,7 @@ WiseWallet is an interactive data analytics dashboard built using **Python**, **
 
 The project demonstrates an end-to-end data analytics workflow—from data preprocessing to dashboard development and AI-assisted insight generation.
 
-Link:https://wisewalletproject-dibyojyotidas.streamlit.app/
+Link: https://wisewalletproject-dibyojyotidas.streamlit.app/
 ---
 
 ## 📸 Screenshots
